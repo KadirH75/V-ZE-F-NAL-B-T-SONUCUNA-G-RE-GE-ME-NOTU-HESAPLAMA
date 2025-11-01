@@ -20,4 +20,5 @@ if (s1 < 60) {
 else {
 	cout << s1 << ": puan ile dersi büt e kalmadan geçtiniz afein!";
 }
+return 0;
 }
